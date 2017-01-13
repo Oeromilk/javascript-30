@@ -6,3 +6,6 @@ others are just **displaying** information in the console.
 
 All projects are built using vanilla javascript
 to strengthen my javascript **grip**!
+
+Sometimes these projects are fueled by :coffee: other times some :beer: gets
+me through it!
