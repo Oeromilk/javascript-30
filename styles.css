@@ -1,0 +1,11 @@
+body {
+  background-color: #ffeb3b;
+}
+
+.card-action a {
+  color: #ffeb3b !important;
+}
+
+.card-action a:hover {
+  color: white !important;
+}
