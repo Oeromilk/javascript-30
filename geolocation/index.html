@@ -63,6 +63,9 @@
   navigator.geolocation.watchPosition((data) => {
     speed.textContent = data.coords.speed;
     arrow.style.transform = `rotate(${data.coords.heading}deg)`;
+  }, (err) => {
+    console.err(err);
+    alert('Please give us the access!!!');
   });
   </script>
 </body>
